@@ -43,6 +43,7 @@ And more...
 
 ## Find me at
 
+[![Gitlab](https://img.shields.io/badge/GitLab-GITLAB-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-vanderfondi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/vanderfondi)
 [![Twitter](https://img.shields.io/badge/Twitter-@vanderfondi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
 [![Instagram](https://img.shields.io/badge/Instagram-@vanderfond1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
