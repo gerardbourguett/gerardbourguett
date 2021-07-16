@@ -63,7 +63,7 @@ And more...
 
 ## Github Data
 
-[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=vanderfondi&theme=blue-green)]()
+[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardbourguett&theme=blue-green)]()
 [![Github](https://github-readme-stats.vercel.app/api?username=gerardbourguett&theme=blue-green)]()
 
 ## Repos Data
