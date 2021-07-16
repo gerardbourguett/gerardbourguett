@@ -44,11 +44,7 @@ And more...
 
 ## Find me at:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-
-</br>
-
+[![Twitch](https://img.shields.io/badge/Twitch-vanderfondi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/vanderfondi)
 [![Twitter](https://img.shields.io/badge/Twitter-@vanderfondi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
 [![Instagram](https://img.shields.io/badge/Instagram-@vanderfond1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
 
