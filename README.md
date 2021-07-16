@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 ### Full Stack and Android Developer
 
+
+- 🔭 I’m currently working on [API Mercado Público](https://github.com/gerardbourguett/api-mercado-publico)
+
+- 🌱 I’m currently learning **Python, React, VueJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gerardbourguett](https://github.com/gerardbourguett)
+
+- 📝 I regularly write articles on [http://opinionesvertidas.wordpress.com](http://opinionesvertidas.wordpress.com)
+
+- 💬 Ask me about **API, Angular, Laravel, HTML, Javascript**
+
 ## Skills
 
 </br>
