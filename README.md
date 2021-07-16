@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gerardbourguett/gerardbourguett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Hello, my name is Gerard Bourguett
+
 ### Full Stack and Android Developer
 
-## Skills:
+## Skills
 
 </br>
 
@@ -42,16 +41,17 @@ Here are some ideas to get you started:
 
 And more...
 
-## Find me at:
+## Find me at
 
 [![Twitch](https://img.shields.io/badge/Twitch-vanderfondi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/vanderfondi)
 [![Twitter](https://img.shields.io/badge/Twitter-@vanderfondi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
 [![Instagram](https://img.shields.io/badge/Instagram-@vanderfond1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-@gerard-bourguett-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gerard-bourguett/)
+[![Facebook](https://img.shields.io/badge/Facebook-@gerard-bourguett-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/caballitodospuntosabreparentes/)
 
 </br>
 
-
-## Contact me:
+## Contact me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerard.bourguett@gmail.com)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gabc_arsenalero@protonmail.com)
