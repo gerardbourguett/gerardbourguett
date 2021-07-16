@@ -49,8 +49,8 @@ And more...
 
 </br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
+[![Twitter](https://img.shields.io/badge/Twitter-@vanderfondi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
+[![Instagram](https://img.shields.io/badge/Instagram-@vanderfond1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
 
 
 </br>
