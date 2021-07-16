@@ -25,10 +25,16 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+
+</br>
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+
+</br>
+
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
@@ -38,6 +44,9 @@ And more...
 
 ## My Setup
 
+[![Acer](https://img.shields.io/badge/Windows-Acer_Aspire_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![NVidia](https://img.shields.io/badge/NVIDIA-GTX1050_2GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![Intel](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]()
 
 
 ## Find me at
@@ -46,10 +55,15 @@ And more...
 [![Twitch](https://img.shields.io/badge/Twitch-vanderfondi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/vanderfondi)
 [![Twitter](https://img.shields.io/badge/Twitter-@vanderfondi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/vanderfondi)
 [![Instagram](https://img.shields.io/badge/Instagram-@vanderfond1-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/vanderfond1)
+
+</br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Gerard_Bourguett-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gerard-bourguett/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/caballitodospuntosabreparentes/)
 
-</br>
+## Github Data
+
+[![Github](https://github-readme-stats.vercel.app/api?username={gerardbourguett}&theme=blue-green)]()
 
 ## Contact me
 
