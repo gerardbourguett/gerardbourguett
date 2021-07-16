@@ -66,9 +66,9 @@ And more...
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=gerardbourguett&theme=blue-green)]()
 [![Github](https://github-readme-stats.vercel.app/api?username=gerardbourguett&theme=blue-green)]()
 
-## Repos Data
+## Repo Data
 
-[![Repos](https://starchart.cc/gerardbourguett/angularMercadoPublico.svg)]()
+[![Repo](https://starchart.cc/gerardbourguett/angularMercadoPublico.svg)]()
 
 
 ## Contact me
