@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Full Stack and Android Developer
 
 
-- 🔭 I’m currently working on [comunas-chile-worldle ](https://github.com/gerardbourguett/comunas-chile-worldle )
+- 🔭 I’m currently working on [mercadoapi ](https://github.com/gerardbourguett/mercadoapi )
 
 - 🌱 I’m currently learning **Python, React, VueJS**
 
