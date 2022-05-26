@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Full Stack and Android Developer
 
 
-- 🔭 I’m currently working on [mercado-react ](https://github.com/gerardbourguett/mercado-react )
+- 🔭 I’m currently working on [twitch-chatbot](https://github.com/gerardbourguett/twitch-chatbot )
 
 - 🌱 I’m currently learning **Python, React, VueJS**
 
