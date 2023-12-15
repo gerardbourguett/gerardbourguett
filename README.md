@@ -17,7 +17,7 @@
 
 - 📫 ¿Cómo contactarme? **gerard.bourguett@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KT0JcELjOT_KEHQwP0_DdkfxkCBLcpe6/view?usp=drive_link](https://drive.google.com/file/d/1KT0JcELjOT_KEHQwP0_DdkfxkCBLcpe6/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1KT0JcELjOT_KEHQwP0_DdkfxkCBLcpe6/view?usp=drive_link](https://drive.google.com/file/d/1KT0JcELjOT_KEHQwP0_DdkfxkCBLcpe6/view?usp=drive_link](https://drive.google.com/file/d/1ZNFnMHxSc8tkZNUQZfa5s1HUogD3OTLX/view?usp=drive_link))
 
 - ⚡ Fun fact **Tengo un canal de Twitch en donde juego y converso http://twitch.tv/vanderfondi**
 
